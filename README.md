@@ -19,7 +19,7 @@
 
 - **Languages:** Python (Pandas, Polars), R, SQL  
 - **Technologies:** PySpark, SparkSQL, Power BI, Tableau, Docker, Databricks  
-- **Other:** Microsoft Excel, Streamlit, Git & GitHub  
+- **Other:** Microsoft Excel  
 
 ---
 
