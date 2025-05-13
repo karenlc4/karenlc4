@@ -31,7 +31,8 @@
 - 📊 **University Dashboarding (BYU-I)**  
   Built multiple Power BI dashboards and custom SQL queries to speed up reporting and empower decision-making across departments.
 
-You can find more projects in the repositories below 👇
+- 🚧 **[Senior Project – Early Childhood Insights (In Progress)](https://karenlc4.github.io/senior_project/)**  
+  Currently developing a machine learning web app to help schools identify early academic risk factors in children through data visualizations and predictive analytics.
 
 ---
 
