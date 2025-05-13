@@ -10,8 +10,10 @@
 ### 💼 About Me
 
 🎓 **Data Science Student** at **BYU–Idaho** | Expected graduation: **July 2025**  
+🛠️ **Minor in Engineering** | 📈 **Certificate in Statistics**  
 📊 **Data Analyst** | Passionate about analytics, teaching, and turning raw data into clear stories  
 📍 Based in **Rexburg, ID**
+
 
 ---
 
