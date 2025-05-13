@@ -25,8 +25,9 @@
 
 ### 🚀 Featured Projects
 
-- 🧹 **FamilySearch Data Quality App**  
+- 🧹 [**FamilySearch Data Quality App**](https://github.com/karenlc4/record-metadata)  
   Cleaned 10K+ rows using Polars + Pandas, automated missing value detection, and built a Streamlit app to visualize data quality in real time.
+
 
 - 📊 **University Dashboarding (BYU-I)**  
   Built multiple Power BI dashboards and custom SQL queries to speed up reporting and empower decision-making across departments.
