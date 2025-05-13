@@ -37,7 +37,7 @@ You can find more projects in the repositories below 👇
 
 ### 📄 Resume
 
-📄 [View My Resume](https://github.com/karenlc4/karenlc4/blob/main/Karen%20Castillo%20Resume.pdf)
+📄 [View My Resume](https://github.com/karenlc4/karenlc4.github.io/blob/main/Karen%20Castillo%20Resume%204-25%20(3).pdf)
 
 ---
 
