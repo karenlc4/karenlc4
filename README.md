@@ -34,17 +34,17 @@
 - 📊 **University Dashboarding (BYU-I)**  
   Built multiple Power BI dashboards and custom SQL queries to speed up reporting and empower decision-making across departments.
   
-# 🚦 Traffic Management & Optimization (In Progress)
+- 🚦 [**Traffic Management & Optimization (In Progress)**](https://karenlc4.github.io/senior_project/)  
+  This senior project applies real-world traffic data and machine learning models to predict congestion and optimize travel routes. The goal is to help cities and commuters reduce delays, fuel consumption, and improve road safety through data-driven insights.
 
-This senior project applies real-world traffic data and machine learning models to predict congestion and optimize travel routes. The goal is to help cities and commuters reduce delays, fuel consumption, and improve road safety through data-driven insights.
+  #### 🔍 Key Steps
+  - Collect data from Google Maps or Bing Traffic APIs
+  - Preprocess GPS and incident data
+  - Build ML models to predict traffic flow
+  - Visualize delays and recommend alternate routes
 
-### 🔍 Key Steps
-- Collect data from Google Maps or Bing Traffic APIs
-- Preprocess GPS and incident data
-- Build ML models to predict traffic flow
-- Visualize delays and recommend alternate routes
+  👩‍💻 Developed by Karen Castillo — Data Science Student @ BYU–Idaho
 
-👩‍💻 Developed by Karen Castillo — Data Science Student @ BYU–Idaho
 
 
 ---
